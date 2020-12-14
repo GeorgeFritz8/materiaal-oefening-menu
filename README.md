@@ -21,3 +21,5 @@ is niet verplicht
 1. zorg ervoor dat de gekozen sectie niet onder het menu schuift
 
 Link naar de uitgewerkte versie: _op deze plaats_
+
+file:///C:/Users/georg/siteMa-cloud/F1M2Ontwerp/materiaal-oefening-menu/index.html
